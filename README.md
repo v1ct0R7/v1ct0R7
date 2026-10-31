@@ -1,16 +1,75 @@
-## Hi there 👋
+# Hi, I'm Elvis Murati 👋
 
-<!--
-**v1ct0R7/v1ct0R7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full-Stack Developer
 
-Here are some ideas to get you started:
+I'm a Computer Engineering graduate and Full-Stack Developer passionate about building modern, scalable, and user-friendly web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy working on both front-end and back-end development, transforming ideas into functional digital products through clean code, efficient architecture, and modern technologies.
+
+---
+
+### 💻 Technical Skills
+
+**Frontend Development**
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- TypeScript
+- React.js
+- Next.js
+- Tailwind CSS
+- Material UI
+
+**Backend Development**
+- Node.js
+- Express.js
+- NestJS
+- RESTful APIs
+- API Integration
+- Authentication & Authorization
+
+**Databases**
+- MongoDB
+- MySQL
+- Database Design
+- Data Modeling
+
+**Tools & Technologies**
+- Git
+- GitHub
+- Docker
+- npm / Yarn
+- Postman
+- VS Code
+
+---
+
+### ⚙️ Development Approach
+
+- Building responsive and scalable web applications.
+- Developing RESTful APIs and backend services.
+- Integrating frontend applications with backend systems.
+- Working with relational and NoSQL databases.
+- Writing clean, reusable, and maintainable code.
+- Using Git for version control and collaborative development.
+
+---
+
+### 📚 Currently Improving
+
+- Advanced React.js and Next.js development.
+- Backend architecture with NestJS.
+- Database optimization and API development.
+- Software engineering principles and best practices.
+
+---
+
+### 📫 Connect With Me
+
+- GitHub: https://github.com/v1ct0R7
+- LinkedIn: https://www.linkedin.com/in/elvis-murati-735b40157
+- Portfolio: https://elvismurati.netlify.app/
+
+---
+
+*Always learning. Always building.*
