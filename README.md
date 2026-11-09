@@ -72,4 +72,4 @@ I enjoy working on both front-end and back-end development, transforming ideas i
 
 ---
 
-*Always learning. Always building.*
+*You can't do epic with basic people*
